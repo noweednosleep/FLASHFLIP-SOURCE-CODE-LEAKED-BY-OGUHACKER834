@@ -25,7 +25,7 @@ console.log("                                                 ")
 // this is where the magic happens for ppl who care
 rl.question(`FF | Heads Or Tails: `, leakedbyoguskid123 => {
     try {
-        const funTip = ["Fun Factt: Did you know flashflip uses Math.random()? Provably Fair? More like probably fair", "Fun Fact: Did you know the owner of FlashFlip has used the money he scammed off of FlashFlip players on Happy Meals at his local McDonalds?", ""]
+        const funTip = ["Fun Fact: Did you know flashflip uses Math.random()? Provably Fair? More like probably fair", "Fun Fact: Did you know the owner of FlashFlip has used the money he scammed off of FlashFlip players on Happy Meals at his local McDonalds?", ""]
         const oguhackerlol = ['Heads', 'Tails']
         const getskidaddled = oguhackerlol[Math.round(Math.random())]
         const randomFunTip = funTip[Math.round(Math.random())]
